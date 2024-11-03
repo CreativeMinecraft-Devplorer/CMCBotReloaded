@@ -1,0 +1,86 @@
+[2024-11-03 11:05:09.934348] [Onebot连接成功] - {'time': 1730603109, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'lifecycle', 'sub_type': 'connect'}
+[2024-11-03 11:05:13.455318] [心跳包] - {'time': 1730603113, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:05:43.454589] [心跳包] - {'time': 1730603143, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:06:13.459805] [心跳包] - {'time': 1730603173, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:06:43.461161] [心跳包] - {'time': 1730603203, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:07:13.472335] [心跳包] - {'time': 1730603233, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:07:43.476342] [心跳包] - {'time': 1730603263, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:08:13.489754] [心跳包] - {'time': 1730603293, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:08:17.763560] [群消息] - Message 1579553541 from 1280993766@[群:554134296] '<le>[image:summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3535343133343...,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3535343133343...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhS3OwwH...,file_size=5854,file_unique=20df370e921b6b93381fcb803bbfff22]</le>'
+[2024-11-03 11:08:20.894312] [群消息] - Message 842576704 from 1280993766@[群:554134296] '逆天'
+[2024-11-03 11:08:43.492679] [心跳包] - {'time': 1730603323, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:09:13.495865] [心跳包] - {'time': 1730603353, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:09:43.501772] [心跳包] - {'time': 1730603383, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:10:13.510382] [心跳包] - {'time': 1730603413, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:10:43.598813] [心跳包] - {'time': 1730603443, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:10:57.385381] [生命周期 - WebSocket 连接成功] - {'time': 1730603457, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'lifecycle', 'sub_type': 'connect'}
+[2024-11-03 11:11:13.539555] [心跳] - {'time': 1730603473, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:11:43.547366] [心跳] - {'time': 1730603503, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:12:01.380151] [生命周期 - WebSocket 连接成功] - {'time': 1730603521, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'lifecycle', 'sub_type': 'connect'}
+[2024-11-03 11:12:13.548060] [心跳] - {'time': 1730603533, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:12:36.382527] [群聊消息 - 普通] - Message 1321703097 from 3425304205@[群:371884431] '<le>[image:summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3337313838343...,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3337313838343...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhQYi13-...,file_size=7231,file_unique=469a2c70ca58a79afd62cff06c8a651a]</le>'
+[2024-11-03 11:12:43.560858] [心跳] - {'time': 1730603563, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:12:49.197846] [群聊消息 - 普通] - Message 1929297001 from 2105165021@[群:554134296] '准备开始制作模组了'
+[2024-11-03 11:13:06.291091] [群聊消息 - 普通] - Message 2091659314 from 1280993766@[群:554134296] '恭喜'
+[2024-11-03 11:13:13.566766] [心跳] - {'time': 1730603593, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:13:25.553115] [点赞] - {'time': 1730603605, 'self_id': 2295326064, 'post_type': 'notice', 'notice_type': 'notify', 'sub_type': 'profile_like', 'operator_id': 1280993766, 'operator_nick': '顾雨晨', 'times': 1}
+[2024-11-03 11:13:27.595735] [点赞] - {'time': 1730603607, 'self_id': 2295326064, 'post_type': 'notice', 'notice_type': 'notify', 'sub_type': 'profile_like', 'operator_id': 1280993766, 'operator_nick': '顾雨晨', 'times': 4}
+[2024-11-03 11:13:36.095053] [群聊消息 - 普通] - Message 811286749 from 2105165021@[群:554134296] 'forge模组'
+[2024-11-03 11:13:43.570084] [心跳] - {'time': 1730603623, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:14:12.469724] [群聊消息 - 普通] - Message 1159897326 from 1280993766@[群:554134296] '<le>[at:qq=2105165021]</le> Fabric 不好吗'
+[2024-11-03 11:14:13.578141] [心跳] - {'time': 1730603653, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:14:26.331045] [群聊消息 - 普通] - Message 699917998 from 1280993766@[群:554134296] 'Optifine 比较辣鸡了'
+[2024-11-03 11:14:43.591511] [心跳] - {'time': 1730603683, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:15:13.596544] [心跳] - {'time': 1730603713, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:15:21.615553] [群聊消息 - 普通] - Message 1033320243 from 2105165021@[群:554134296] '在学'
+[2024-11-03 11:15:29.007552] [群聊消息 - 普通] - Message 1502655869 from 1280993766@[群:554134296] '6'
+[2024-11-03 11:15:31.378846] [群聊消息 - 普通] - Message 1091446476 from 1280993766@[群:554134296] '加油'
+[2024-11-03 11:15:43.598645] [心跳] - {'time': 1730603743, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:16:13.602283] [心跳] - {'time': 1730603773, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:16:43.614327] [心跳] - {'time': 1730603803, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:16:46.710724] [群聊消息 - 普通] - Message 1707166429 from 2105165021@[群:554134296] '我需要先下载一个MDK（mod development kit)'
+[2024-11-03 11:17:13.628556] [心跳] - {'time': 1730603833, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:17:24.083702] [群聊消息 - 普通] - Message 806504725 from 1280993766@[群:554134296] '6'
+[2024-11-03 11:17:43.633296] [心跳] - {'time': 1730603863, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:18:13.644843] [心跳] - {'time': 1730603893, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:18:43.661761] [心跳] - {'time': 1730603923, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:19:13.663580] [心跳] - {'time': 1730603953, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:19:43.673396] [心跳] - {'time': 1730603983, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:20:13.678619] [心跳] - {'time': 1730604013, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:20:43.679989] [心跳] - {'time': 1730604043, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:21:13.684762] [心跳] - {'time': 1730604073, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:21:43.686745] [心跳] - {'time': 1730604103, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:22:13.690400] [心跳] - {'time': 1730604133, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:22:43.696004] [心跳] - {'time': 1730604163, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:23:13.703726] [心跳] - {'time': 1730604193, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:23:43.710949] [心跳] - {'time': 1730604223, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:24:13.722626] [心跳] - {'time': 1730604253, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:24:43.724466] [心跳] - {'time': 1730604283, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:25:13.731528] [心跳] - {'time': 1730604313, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:25:43.746005] [心跳] - {'time': 1730604343, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:26:13.762329] [心跳] - {'time': 1730604373, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:26:43.773583] [心跳] - {'time': 1730604403, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:27:04.637133] [群聊消息 - 普通] - Message 11339460 from 2105165021@[群:554134296] '去看fabric文档力'
+[2024-11-03 11:27:13.779951] [心跳] - {'time': 1730604433, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:28:45.489073] [心跳] - {'time': 1730604525, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:28:48.901861] [群聊消息 - 普通] - Message 345893094 from 2105165021@[群:554134296] '<le>[image:summary=,file=000001424e61704361744f6e65426f747c4d736746696c657c327c3535343133343...,sub_type=0,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3535343133343...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhQRr0Nc...,file_size=8664,file_unique=72ec4b2dd047169e36a0f52af1290b82]</le>'
+[2024-11-03 11:29:15.317253] [心跳] - {'time': 1730604555, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:29:17.964422] [群聊消息 - 普通] - Message 648022745 from 1280993766@[群:554134296] '6'
+[2024-11-03 11:29:45.325619] [心跳] - {'time': 1730604585, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:30:15.328078] [心跳] - {'time': 1730604615, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:30:45.336232] [心跳] - {'time': 1730604645, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:31:15.350591] [心跳] - {'time': 1730604675, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:31:27.419918] [群聊消息 - 普通] - Message 942571678 from 1914805486@[群:667322546] '有没有什么飞机场推荐给我的'
+[2024-11-03 11:31:45.353356] [心跳] - {'time': 1730604705, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:32:13.185546] [群聊消息 - 普通] - Message 2038017549 from 1914805486@[群:667322546] '<le>[image:summary=[动画表情],file=000001464e61704361744f6e65426f747c4d736746696c657c327c3636373332323...,sub_type=1,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3636373332323...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhR7hCOJ...,file_size=31283,file_unique=8750ed2e3203eefb298c80c78dfcd42e]</le>'
+[2024-11-03 11:32:15.362382] [心跳] - {'time': 1730604735, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:32:36.431775] [群聊消息撤回] - {'time': 1730604756, 'self_id': 2295326064, 'post_type': 'notice', 'notice_type': 'group_recall', 'user_id': 1914805486, 'group_id': 667322546, 'operator_id': 1914805486, 'message_id': 942571678}
+[2024-11-03 11:32:45.364206] [心跳] - {'time': 1730604765, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:33:15.371977] [心跳] - {'time': 1730604795, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:33:45.379569] [心跳] - {'time': 1730604825, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:34:15.392222] [心跳] - {'time': 1730604855, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:34:45.398481] [心跳] - {'time': 1730604885, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:34:57.093892] [群聊消息 - 普通] - Message 170419620 from 180744225@[群:667322546] '<le>[at:qq=1914805486]</le> 不知道'
+[2024-11-03 11:35:15.401553] [心跳] - {'time': 1730604915, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:35:45.417231] [心跳] - {'time': 1730604945, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}
+[2024-11-03 11:36:15.431239] [心跳] - {'time': 1730604975, 'self_id': 2295326064, 'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'status': {'online': True, 'good': True}, 'interval': 30000}

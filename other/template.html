@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>背景图片加渐变层示例</title>
+<style>
+  body {
+    margin: 0;
+    position: relative;
+    background-image: url('https://q1.qlogo.cn/g?b=qq&nk={用户QQ}&s=640');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+  }
+
+  .gradient-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right,
+      rgba(0, 0, 0, 1) 0%, 
+      rgba(0, 0, 0, 0.7) 50%, 
+      rgba(0, 0, 0, 0) 100%);
+  }
+
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    transform: translateY(-50%);
+    z-index: 1;
+    text-align: left;
+    max-width: 600px; /* 设定一个较小的宽度以使文本更快换行 */
+  }
+
+  .content pre {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+    white-space: pre-wrap; /* 自动换行并且保持原有空格和换行符 */
+  }
+
+  .signature {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+  }
+</style>
+<script>
+  function processText(text) {
+    const lines = text.split('\n');
+    let html = '';
+    lines.forEach(line => {
+      html += line.replace(/__webview.return__/g, '<br/>');
+    });
+    const content = document.querySelector('.content');
+    const textElement = content.querySelector('pre');
+    textElement.innerHTML = html;
+  }
+
+  const exampleText = `{文本}`;
+
+  document.addEventListener('DOMContentLoaded', function() {
+    processText(exampleText);
+    updateSignaturePosition();
+  });
+
+  function updateSignaturePosition() {
+    const content = document.querySelector('.content');
+    const signature = content.querySelector('.signature');
+    const textElement = content.querySelector('pre');
+
+    if (!content || !signature || !textElement) {
+      console.error('缺少必要的元素');
+      return;
+    }
+
+    const contentRect = content.getBoundingClientRect();
+    const textElementRect = textElement.getBoundingClientRect();
+    const signatureRect = signature.getBoundingClientRect();
+
+    const newBottom = contentRect.height - textElementRect.height - signatureRect.height - 80;
+    const newRight = contentRect.width - signatureRect.width;
+
+    signature.style.position = 'absolute';
+    signature.style.bottom = `${newBottom}px`;
+    signature.style.right = `${newRight}px`;
+  }
+
+  window.addEventListener('scroll', updateSignaturePosition);
+  window.addEventListener('resize', updateSignaturePosition);
+</script>
+</head>
+<body>
+  <div class="gradient-layer"></div>
+  <div class="content">
+    <pre></pre>
+    <span class="signature">— {用户名}</span>
+  </div>
+</body>
+</html>

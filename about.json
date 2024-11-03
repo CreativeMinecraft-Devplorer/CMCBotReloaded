@@ -1,0 +1,16 @@
+{
+    "BotName": "CMCBot",
+    "description": "CreativeMinecraft社区的QQ机器人",
+    "version": "1.0.0 reloaded",
+    "author": ["StarrySkyWorld","旧梦残颜","silence_cm_1ot"],
+    "contact": "liu_qinyu@outook.com",
+    "officialWebsite": "https://mc.starryfun.icu",
+    "function": [
+        "QQ & AuthMe账户联动",
+        "群管理"
+    ],
+    "command": [
+        "/reg <MinecraftUserName>",
+        "/about"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "UUIDs": [
+        "3d92ea0a-97cd-415e-b14f-d9ab8ace5bef"
+    ],
+    "Users": [
+        {
+            "uuid": "3d92ea0a-97cd-415e-b14f-d9ab8ace5bef",
+            "QQ": 1280993766,
+            "name": "星空🌌",
+            "password": "root123456",
+            "integral": 40,
+            "lock": false
+        },
+        {
+            "uuid": "717ff73d-4b25-41de-86e3-a4b3143d0600",
+            "QQ": 2560467728,
+            "name": "Furina",
+            "password": "2560467728",
+            "integral": 10,
+            "lock": false
+        }
+    ],
+    "Check_In": {
+        "09/23": [
+            1280993766
+        ],
+        "09/24": [
+            1280993766,
+            2560467728
+        ]
+    }
+}
